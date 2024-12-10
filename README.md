@@ -1,11 +1,9 @@
-Aqui está um exemplo de um arquivo README que você pode usar para documentar seu projeto HTML. Esse README fornece uma descrição geral do projeto, suas funcionalidades, instruções de instalação e uso, e outras informações relevantes.
 
-![image](https://github.com/user-attachments/assets/4a30e74a-531d-4c6c-b373-c5b4922035c3)
-
-```markdown
 # Portfólio da Turma 3° Informática
 
 Este projeto é um portfólio interativo da turma de Informática do ano de 2024. Ele apresenta informações sobre os alunos, os projetos desenvolvidos durante o Trabalho de Conclusão de Curso (TCC) e uma descrição divertida sobre a turma.
+
+![image](https://github.com/user-attachments/assets/4a30e74a-531d-4c6c-b373-c5b4922035c3)
 
 ## Estrutura do Projeto
 
